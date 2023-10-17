@@ -1,5 +1,5 @@
 # About Me:
-My name is Gerardo Madrid and I am a software developer from <br>Venezuela currently living in  Spain.<br><br>I'm focused mainly in frontend web development but I also have <br>
+My name is Gerardo Madrid. I am a software developer from <br>Venezuela currently living in  Spain.<br><br>I'm focused mainly in frontend web development but I also have <br>
 experience with backend development
 
 
